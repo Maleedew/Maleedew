@@ -4,7 +4,7 @@
 <!-- Display your photo without animation -->
 <p align="center">
   <!-- Replace the src path below with the relative path to your photo in the repository (e.g. ./assets/me.jpg) -->
-  <img src="your-photo.jpg" alt="Maleesha Dewshan" width="200" />
+  <img src="./assets/your-photo.jpg" alt="Maleesha Dewshan" width="200" />
 </p>
 
 <!-- Animated typing effect to highlight roles/interests -->
